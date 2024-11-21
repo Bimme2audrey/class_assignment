@@ -1,0 +1,53 @@
+body{
+    background-color: beige;
+}
+h3{
+    text-align: center;
+}
+button{
+    background-color: dodgerblue;
+    color: #f1f1f1;
+    outline-color: black;
+    outline-style: dotted;
+    border-radius: 10px;
+    margin-left: 20%;
+    padding: 25px;
+ }
+
+ p:hover{
+    cursor: pointer;
+}
+#toggleBtn{
+    background-color:aqua;
+    color: #f1f1f1;
+    outline-color: black;
+    outline-style: groove;
+    border-radius: 10px;
+    margin-left: 20%;
+    padding: 25px;
+
+}
+fieldset{
+    margin-left: 25%;
+    margin-right: 40%;
+}
+#addBtn{
+    background-color:teal;
+    color: #f1f1f1;
+    outline-color: black;
+    outline-style: double;
+    border-radius: 10px;
+    margin-left: 20%;
+    padding: 25px;
+
+}
+#sub{
+    background-color:turquoise;
+    color: #f1f1f1;
+    outline-color: black;
+    outline-style: dashed;
+    border-radius: 10px;
+    margin-left: 10%;
+    padding: 15px;
+
+}
